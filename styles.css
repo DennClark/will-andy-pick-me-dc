@@ -1,5 +1,22 @@
-/* font-family: 'Open Sans', sans-serif; */
-/* font-family: 'Life Savers', serif; */
+font-family: 'Open Sans', sans-serif;
+font-family: 'Life Savers', serif;
+
+h1 {
+  font-family: "Life Savers", serif;
+  color: #2B4E80;
+}
+
+main {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: black;
+}
+
+.eight-ball-image {
+  max-width: 50px;
+}
 
 /*
 COLORS
